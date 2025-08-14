@@ -1,8 +1,8 @@
 .PHONY: all test test-basic test-extended test-all install install-sublime install-standalone clean help lint check-python
 
 PYTHON := python3
-SUBLIME_USER_DIR_MAC := ~/Library/Application Support/Sublime Text/Packages/User
-SUBLIME_USER_DIR_LINUX := ~/.config/sublime-text/Packages/User
+SUBLIME_USER_DIR_MAC := $(HOME)/Library/Application Support/Sublime Text/Packages/User
+SUBLIME_USER_DIR_LINUX := $(HOME)/.config/sublime-text/Packages/User
 SUBLIME_USER_DIR_WIN := %APPDATA%\Sublime Text\Packages\User
 PLUGIN_DIR := SensitiveTextHider
 
