@@ -1,0 +1,14 @@
+This is a test file with sensitive information.
+
+My email is john.doe@example.com and phone number is +1234567890.
+
+Credit card: 1234-5678-9012-3456
+SSN: 123-45-6789
+IP Address: 192.168.1.100
+
+API Key: api_key_1234567890abcdefghij
+Password: password=SuperSecret123
+
+Phone: +1234567890
+
+Some normal text here that shouldn't be modified.

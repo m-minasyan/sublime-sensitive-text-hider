@@ -1,0 +1,23 @@
+{
+  "name": "sublime-sensitive-text-hider",
+  "version": "1.0.0",
+  "description": "Hide and reveal sensitive information in text files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-minasyan/sublime-sensitive-text-hider.git"
+  },
+  "keywords": [
+    "sublime-text",
+    "plugin",
+    "privacy",
+    "sensitive-data",
+    "text-processing",
+    "security"
+  ],
+  "author": "Mihran Minasyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m-minasyan/sublime-sensitive-text-hider/issues"
+  },
+  "homepage": "https://github.com/m-minasyan/sublime-sensitive-text-hider#readme"
+}

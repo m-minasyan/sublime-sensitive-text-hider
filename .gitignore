@@ -1,0 +1,15 @@
+*.pyc
+__pycache__/
+.DS_Store
+*.sublime-workspace
+*.sensitive_backup
+*.sensitive_map
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.pytest_cache/
+dist/
+build/
+*.egg-info/

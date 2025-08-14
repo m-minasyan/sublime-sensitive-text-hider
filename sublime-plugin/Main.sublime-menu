@@ -1,0 +1,56 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Sensitive Text",
+                "id": "sensitive_text",
+                "children":
+                [
+                    {
+                        "caption": "Hide Sensitive Text",
+                        "command": "hide_sensitive_text"
+                    },
+                    {
+                        "caption": "Reveal Sensitive Text",
+                        "command": "reveal_sensitive_text"
+                    },
+                    {
+                        "caption": "-"
+                    },
+                    {
+                        "caption": "Add Custom Pattern",
+                        "command": "add_sensitive_pattern"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "edit",
+        "children":
+        [
+            {
+                "caption": "-"
+            },
+            {
+                "caption": "Sensitive Text",
+                "children":
+                [
+                    {
+                        "caption": "Hide All Sensitive Text",
+                        "command": "hide_sensitive_text"
+                    },
+                    {
+                        "caption": "Reveal All Sensitive Text",
+                        "command": "reveal_sensitive_text"
+                    }
+                ]
+            }
+        ]
+    }
+]
