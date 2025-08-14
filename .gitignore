@@ -2,6 +2,7 @@
 __pycache__/
 .DS_Store
 *.sublime-workspace
+*.sublime-project
 *.sensitive_backup
 *.sensitive_map
 .vscode/
@@ -13,3 +14,11 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+Thumbs.db
+node_modules/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+env/

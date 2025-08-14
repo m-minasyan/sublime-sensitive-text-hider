@@ -1,0 +1,16 @@
+{
+    "patterns": [
+        {
+            "pattern": "pmi",
+            "replacement": "${COMPANY_NAME_SC}"
+        },
+        {
+            "pattern": "PMI",
+            "replacement": "${COMPANY_NAME_HC}"
+        },
+        {
+            "pattern": "pconnect",
+            "replacement": "${COMPANY_WEBSITE}"
+        }
+    ]
+}

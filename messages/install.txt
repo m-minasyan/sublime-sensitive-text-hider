@@ -1,0 +1,43 @@
+Sensitive Text Hider for Sublime Text
+=====================================
+
+Thank you for installing Sensitive Text Hider!
+
+This plugin helps you hide sensitive information in your documents
+by replacing it with placeholder variables.
+
+Features:
+---------
+• Hide emails, credit cards, SSNs, IP addresses, API keys, and passwords
+• Reveal hidden text with backup restoration
+• Toggle between hidden and revealed states
+• Add custom patterns for hiding specific text
+
+How to Use:
+-----------
+1. Hide Sensitive Text:
+   - Command Palette: "Hide Sensitive Text"
+   - Keyboard: Ctrl+Shift+H (Windows/Linux) or Cmd+Shift+H (Mac)
+
+2. Reveal Sensitive Text:
+   - Command Palette: "Reveal Sensitive Text"
+   - Keyboard: Ctrl+Shift+R (Windows/Linux) or Cmd+Shift+R (Mac)
+
+3. Toggle Sensitive Text:
+   - Command Palette: "Toggle Sensitive Text"
+   - Keyboard: Ctrl+Shift+T (Windows/Linux) or Cmd+Shift+T (Mac)
+
+4. Add Custom Pattern:
+   - Command Palette: "Add Sensitive Pattern"
+   - Follow the prompts to add your regex pattern
+
+Settings:
+---------
+You can customize patterns by editing:
+Preferences → Package Settings → Sensitive Text Hider → Settings
+
+Support:
+--------
+Report issues at: https://github.com/m-minasyan/sublime-sensitive-text-hider
+
+Enjoy using Sensitive Text Hider!

@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Hide Sensitive Text",
+        "command": "hide_sensitive_text"
+    },
+    {
+        "caption": "Reveal Sensitive Text",
+        "command": "reveal_sensitive_text"
+    },
+    {
+        "caption": "Toggle Sensitive Text",
+        "command": "toggle_sensitive_text"
+    },
+    {
+        "caption": "Add Sensitive Pattern",
+        "command": "add_sensitive_pattern"
+    }
+]

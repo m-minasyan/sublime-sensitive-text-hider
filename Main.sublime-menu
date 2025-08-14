@@ -1,0 +1,39 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Sensitive Text",
+                "children":
+                [
+                    {
+                        "caption": "Hide Sensitive Text",
+                        "command": "hide_sensitive_text"
+                    },
+                    {
+                        "caption": "Reveal Sensitive Text",
+                        "command": "reveal_sensitive_text"
+                    },
+                    {
+                        "caption": "Add Custom Pattern",
+                        "command": "add_sensitive_pattern"
+                    },
+                    { "caption": "-" },
+                    {
+                        "caption": "Settings",
+                        "command": "edit_settings",
+                        "args": {
+                            "base_file": "${packages}/SensitiveTextHider/SensitiveTextHider.sublime-settings"
+                        }
+                    },
+                    { "caption": "-" },
+                    {
+                        "caption": "Run Diagnostic",
+                        "command": "sensitive_text_diagnostic"
+                    }
+                ]
+            }
+        ]
+    }
+]
