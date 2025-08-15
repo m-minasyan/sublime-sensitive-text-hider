@@ -2,15 +2,39 @@
     "patterns": [
         {
             "pattern": "pmi",
-            "replacement": "${COMPANY_NAME_SC}"
+            "replacement": "${COMPANY_NAME_SC}",
         },
         {
             "pattern": "PMI",
-            "replacement": "${COMPANY_NAME_HC}"
+            "replacement": "${COMPANY_NAME_HC}",
         },
         {
             "pattern": "pconnect",
-            "replacement": "${COMPANY_WEBSITE}"
-        }
-    ]
+            "replacement": "${COMPANY_WEBSITE}",
+        },
+        {
+            "pattern": "dcxeng",
+            "replacement": "${PROJECT_NAME_ENG_SC}",
+        },
+        {
+            "pattern": "DCXENG",
+            "replacement": "${PROJECT_NAME_ENG_HC}",
+        },
+        {
+            "pattern": "F2F",
+            "replacement": "${PROJECT_NAME_EFTWO_HC}",
+        },
+        {
+            "pattern": "f2f",
+            "replacement": "${PROJECT_NAME_EFTWO_SC}",
+        },
+        {
+            "pattern": "DCX",
+            "replacement": "${GLOBAL_PROJECT_NAME_HC}",
+        },
+        {
+            "pattern": "dcx",
+            "replacement": "${GLOBAL_PROJECT_NAME_SC}",
+        },
+    ],
 }
